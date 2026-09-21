@@ -1,4 +1,4 @@
-## submitted report 
+# submitted report 
 
 # PostgreSQL memcpy DOS
 this  might appear private, since it usually takes a few monthes for them to process: <br>https://huntr.com/bounties/08a6a855-4e3a-4bd3-bf83-5cf5692799aa <br>
